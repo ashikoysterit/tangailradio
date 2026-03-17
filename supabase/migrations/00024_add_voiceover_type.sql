@@ -1,0 +1,1 @@
+ALTER TYPE audio_type ADD VALUE IF NOT EXISTS 'voiceover';
